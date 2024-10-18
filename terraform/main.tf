@@ -10,8 +10,8 @@ provider "aws" {
   region = "us-east-1"
 }
 
-resource "aws_s3_bucket" "my-s3-bucket-123" {
-  bucket = "my-tf-test-bucket"
+resource "aws_s3_bucket" "my-s3-bucket-123arapwd-x239" {
+  bucket = "my-s3-bucket-123arapwd-x239"
 
   tags = {
     Name        = "My bucket"
